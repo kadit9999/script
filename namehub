@@ -3,7 +3,7 @@
     Cấu hình Script: Pastefy Source (Giao diện Trắng)
 ]]
 
-local Config_URL = "https://raw.githubusercontent.com/Bubu2k/config.txt/refs/heads/main/config.txt" 
+local Config_URL = "https://raw.githubusercontent.com/kadit9999/config.txt/refs/heads/main/config.txt" 
 local File_Name = "EclipseKeyCache.txt" -- Tên file lưu trữ key trong thư mục workspace
 
 ---------------------------------------------------------
