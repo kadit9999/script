@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Lilwero20/KatoHub/refs/heads/main/KatoHub"))()
+loadstring(game:HttpGet("https://rubuscriptblox.com/script/loader.php?script=mumu"))()
